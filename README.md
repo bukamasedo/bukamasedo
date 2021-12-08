@@ -1,10 +1,12 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox" />
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username={}&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hi there 👋
 
