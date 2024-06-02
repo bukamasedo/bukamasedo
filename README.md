@@ -6,9 +6,3 @@
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=bukamasedo&theme=gruvbox)
-
-### Hi there 👋
-
-- 🔭 I’m currently working on create website
-- 🌱 I’m currently learning react, typescript and three.js
-- 👯 I’m looking to collaborate on anything interesting!
